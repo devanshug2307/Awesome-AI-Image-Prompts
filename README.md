@@ -1,16 +1,18 @@
-# Awesome Nano Banana Prompts 🍌
+# Awesome AI Image Prompts 🎨
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Prompts](https://img.shields.io/badge/Prompts-900%2B-gold)](https://antigravity.codes/nano-banana-prompts)
+[![Prompts](https://img.shields.io/badge/Prompts-900%2B-gold)](https://antigravity.codes/image-prompts)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-> A curated collection of **900+ high-quality Nano Banana prompts** for AI image generation. From 3D miniatures to product photography, character design to fantasy art.
+> A curated collection of **900+ high-quality AI image prompts** tested with leading models — OpenAI DALL-E 3, ChatGPT Image, Midjourney v6, Google Nano Banana (Imagen 3), Flux Pro, and Stable Diffusion XL. From 3D miniatures to product photography, character design to fantasy art.
 
 This repository showcases the best prompts sourced from X (Twitter), prompt engineers, and AI artists worldwide. Each prompt is tested and includes the original source for attribution.
 
-## 👉 [Browse All 900+ Prompts Live →](https://antigravity.codes/nano-banana-prompts)
+## 👉 [Browse All 900+ Prompts Live →](https://antigravity.codes/image-prompts)
 
-Try any prompt instantly with the full interactive database at [antigravity.codes/nano-banana-prompts](https://antigravity.codes/nano-banana-prompts)
+Try any prompt instantly with the full interactive database at [antigravity.codes/image-prompts](https://antigravity.codes/image-prompts)
+
+> **Disclaimer:** This repository is an independent community resource. Not affiliated with, endorsed by, or sponsored by Google LLC, OpenAI, Midjourney Inc., Black Forest Labs, Stability AI, or any AI image generation vendor. Product names referenced — including "Google Nano Banana", "DALL-E", "ChatGPT Image", "Midjourney", "Imagen", "Flux", and "Stable Diffusion" — are trademarks of their respective owners. Prompts are community-curated and provided for editorial and educational purposes.
 
 ---
 
@@ -38,9 +40,9 @@ Try any prompt instantly with the full interactive database at [antigravity.code
 
 ## 1. 🏙️ 3D Miniatures & Dioramas
 
-> 40 curated nano banana prompts for 3d miniatures & dioramas.
+> 40 curated AI image prompts for 3d miniatures & dioramas.
 
-**[View all 40 prompts →](https://antigravity.codes/nano-banana-prompts/3d-miniatures)**
+**[View all 40 prompts →](https://antigravity.codes/image-prompts/3d-miniatures)**
 
 ### 1.1. 3D Render: Whimsical Miniature Starbucks Coffee Shop Scene
 
@@ -651,9 +653,9 @@ Composition rules: All architectural detail remains strictly inside the ribbon s
 
 ## 2. 📦 Product Photography
 
-> 61 curated nano banana prompts for product photography.
+> 61 curated AI image prompts for product photography.
 
-**[View all 61 prompts →](https://antigravity.codes/nano-banana-prompts/product-photography)**
+**[View all 61 prompts →](https://antigravity.codes/image-prompts/product-photography)**
 
 ### 2.1. Thor's Hand Grips Electrified Sprite Bottle in Storm
 
@@ -1724,9 +1726,9 @@ A photorealistic image depicts a modern smartphone standing upright on a wooden 
 
 ## 3. 🎭 Character Design
 
-> 32 curated nano banana prompts for character design.
+> 32 curated AI image prompts for character design.
 
-**[View all 32 prompts →](https://antigravity.codes/nano-banana-prompts/character-design)**
+**[View all 32 prompts →](https://antigravity.codes/image-prompts/character-design)**
 
 ### 3.1. Fashion Design: Layering, Texture & Sheer Fabric Diagram
 
@@ -2243,9 +2245,9 @@ A stunning watercolor painting captures a beautiful woman in traditional attire,
 
 ## 4. 🍽️ Food & Culinary
 
-> 21 curated nano banana prompts for food & culinary.
+> 21 curated AI image prompts for food & culinary.
 
-**[View all 21 prompts →](https://antigravity.codes/nano-banana-prompts/food-culinary)**
+**[View all 21 prompts →](https://antigravity.codes/image-prompts/food-culinary)**
 
 ### 4.1. Dynamic Chocolate Chip Cookies & Milk Splash Food Photo
 
@@ -2612,9 +2614,9 @@ An overhead flat lay photograph captures four people gathered around a vibrant r
 **Prompt:**
 
 ```
-Exploring more of Nano Banana Pro’s potential. Turning brands into scroll-stopping visuals.
+Exploring more of Google Nano Banana Pro’s potential. Turning brands into scroll-stopping visuals.
 
-Generated with Nano Banana Pro on @higgsfield_ai
+Generated with Google Nano Banana Pro on @higgsfield_ai
 
 - Prompt 
 Ultra-wide-angle hyper-realistic top-down flat lay photography. A group of 4 real people sitting around a square dining table. The camera is pulled far back, creating significant negative space (empty floor area) around the people and the table, ensuring a clean, minimalist composition. The scene is [VIBE & ATTIRE]: The four people are dressed in [CLOTHING STYLE]. Their interactions are specific: [DESCRIBE ACTION OF EACH PERSON].
@@ -2698,7 +2700,7 @@ This image showcases a 'Culinary Atlas' featuring four open books, each detailin
 **Prompt:**
 
 ```
-Nano Banana Pro vs. GPT Image 1.5 for my food recommendation prompt. Just give it a couple of ingredients. 
+Google Nano Banana Pro vs. GPT Image 1.5 for my food recommendation prompt. Just give it a couple of ingredients. 
 
 <instruction>
 Inputs: Ingredients = [User Choice, e.g., Chicken, Bacon]
@@ -2781,9 +2783,9 @@ Output: 1 x 1:1 image, rustic gourmet photography.
 
 ## 5. 🚀 Fantasy & Sci-Fi
 
-> 28 curated nano banana prompts for fantasy & sci-fi.
+> 28 curated AI image prompts for fantasy & sci-fi.
 
-**[View all 28 prompts →](https://antigravity.codes/nano-banana-prompts/fantasy-scifi)**
+**[View all 28 prompts →](https://antigravity.codes/image-prompts/fantasy-scifi)**
 
 ### 5.1. Conceptual Art: Jester's Existential Crisis Specimen Jars
 
@@ -2981,7 +2983,7 @@ A detailed, hand-drawn fantasy map illustrates 'The Career Journey of Alisa Fort
 **Prompt:**
 
 ```
-Prompt tip: Download your LinkedIn profile is a PDF and give it to Nano Banana Pro with a simple prompt.
+Prompt tip: Download your LinkedIn profile is a PDF and give it to Google Nano Banana Pro with a simple prompt.
 ```
 
 **Source:** [Alisa Fortin](https://x.com/alisa_fortin/status/1992049339511030009)
@@ -3039,7 +3041,7 @@ A detailed thermal X-ray orthographic view of an Android robot, showcasing its g
 The Google Android robot, presented in a high-contrast scientific studio render against a pure black void. This tight right-side profile features a false-color thermal X-ray aesthetic, where the transparent shell reveals a sharply detailed internal architecture of batteries, drivers, and sensors using a vibrant heatmap gradient. The colors shift from deep cool blues to intense yellows and red highlights, creating a futuristic, clinical look with orthographic perspective and a soft, neon-like glow.
 ```
 
-**Source:** [Nano Banana Pro](https://x.com/NanoBanana/status/1997085645538472118)
+**Source:** [Google Nano Banana Pro](https://x.com/NanoBanana/status/1997085645538472118)
 
 ---
 
@@ -3133,9 +3135,9 @@ Focus on the weave of the canvas suit and the scratches on the helmet.
 
 ## 6. ⚽ Sports & Action
 
-> 28 curated nano banana prompts for sports & action.
+> 28 curated AI image prompts for sports & action.
 
-**[View all 28 prompts →](https://antigravity.codes/nano-banana-prompts/sports-action)**
+**[View all 28 prompts →](https://antigravity.codes/image-prompts/sports-action)**
 
 ### 6.1. Woman Post-Workout Hydration | Fitness & Gym Scene
 
@@ -3809,14 +3811,14 @@ Present prompts like this:
 
 ## How to Use
 1. Copy entire JSON prompt
-2. Paste into AI image generator (Grok, Nano Banana, ChatGPT Image, etc.)
+2. Paste into AI image generator (Grok, Google Nano Banana, ChatGPT Image, etc.)
 3. If user uploaded product image, attach it to generator
 4. Generate image
 5. Try 3-5 variations for best results
 
 **Tips:**
 - Use prompts exactly as provided
-- These work best in advanced generators (Grok, ChatGPT, Nano Banana)
+- These work best in advanced generators (Grok, ChatGPT, Google Nano Banana)
 - "preserve_original": true works best with multiple attempts
 ```
 
@@ -3831,7 +3833,7 @@ Act as expert photographer:
 ✗ "This prompt includes gym lighting specifications"
 
 Guide efficiently:
-✓ "Copy the JSON into Nano Banana and generate"
+✓ "Copy the JSON into Google Nano Banana and generate"
 ✗ "So what you'll need to do is first copy the entire JSON structure..."
 
 ## Example Prompts for Reference
@@ -4905,9 +4907,9 @@ A fit woman in black athletic wear is shown in a three-panel image performing va
 
 ## 7. 🌃 Urban Cityscapes
 
-> 17 curated nano banana prompts for urban cityscapes.
+> 17 curated AI image prompts for urban cityscapes.
 
-**[View all 17 prompts →](https://antigravity.codes/nano-banana-prompts/urban-cityscapes)**
+**[View all 17 prompts →](https://antigravity.codes/image-prompts/urban-cityscapes)**
 
 ### 7.1. Cozy Autumn Couple Illustration in City Street Scene
 
@@ -5179,7 +5181,7 @@ A detailed 3D render of a bustling narrow night market alley, with rain-wet cobb
 **Prompt:**
 
 ```
-open source prompt to 3D. create and explore entire worlds with your imagination using nano banana.
+open source prompt to 3D. create and explore entire worlds with your imagination using Google Nano Banana.
 
 https://sharp-ml.vercel.app
 
@@ -5293,9 +5295,9 @@ Prompt
 
 ## 8. 🏛️ Architecture & Interiors
 
-> 22 curated nano banana prompts for architecture & interiors.
+> 22 curated AI image prompts for architecture & interiors.
 
-**[View all 22 prompts →](https://antigravity.codes/nano-banana-prompts/architecture-interiors)**
+**[View all 22 prompts →](https://antigravity.codes/image-prompts/architecture-interiors)**
 
 ### 8.1. AR Interior Design: Industrial Modern Living Room on Phone
 
@@ -5310,7 +5312,7 @@ People are finding insane ways to create 3D renderings, impossible shots, and ul
 
 10 examples + prompt. Bookmark this 
 
-1. Nano banana -> World Labs -> WebAR (threejs)
+1. Google Nano Banana -> World Labs -> WebAR (threejs)
 ```
 
 **Source:** [Min Choi](https://x.com/minchoi/status/1998983872718176660)
@@ -5429,7 +5431,7 @@ A bright, empty living room features light green walls, a bay window overlooking
 Show me how this room would look with furniture in it
 ```
 
-**Source:** [Nano Banana Pro](https://x.com/NanoBanana/status/1994483569625022487)
+**Source:** [Google Nano Banana Pro](https://x.com/NanoBanana/status/1994483569625022487)
 
 ---
 
@@ -5444,7 +5446,7 @@ A bright and elegant luxury home interior showcases a warm entryway with a light
 ```
 Did some experimenting and figured out the workflow for AI design transformations: 
 
-Start with a base image of a room with no furniture. Then prompt on Nano Banana Pro to add what you'd like (e.g. a cool door frame, loft, or pool). 
+Start with a base image of a room with no furniture. Then prompt on Google Nano Banana Pro to add what you'd like (e.g. a cool door frame, loft, or pool). 
 
 Take to Veo 3.1 as your start and end frames.
 
@@ -5464,7 +5466,7 @@ A comprehensive grid showcases 16 distinct living room interior designs, featuri
 **Prompt:**
 
 ```
-nano banana pro for interior design mood boards. 16 styles, same space, one prompt
+Google Nano Banana Pro for interior design mood boards. 16 styles, same space, one prompt
 
 prompt (at the end of the conversation): https://claude.ai/share/4b94f588-c6ae-47d7-9b42-9d95a4df4fbd…
 ```
@@ -5503,7 +5505,7 @@ A detailed oil painting depicts an art studio interior showcasing an infinite lo
 **Prompt:**
 
 ```
-A shorthand prompt you can use to make recursive images with Nano Banana Pro is "Droste effect".
+A shorthand prompt you can use to make recursive images with Google Nano Banana Pro is "Droste effect".
 
 > Droste effect without photography or people
 ```
@@ -5521,11 +5523,11 @@ A photorealistic image of the iconic Taj Mahal at sunrise, featuring its majesti
 **Prompt:**
 
 ```
-Nano Banana Pro just measured the Taj Mahal's dimensions with near-perfect precision.
+Google Nano Banana Pro just measured the Taj Mahal's dimensions with near-perfect precision.
 
 SOTA image generation that understands engineering drawings, technical specs, and real-world measurements.
 
-I built a prompt that converts any photo into an engineering-grade schematic inside Nano Banana Pro on @higgsfield_ai for free.
+I built a prompt that converts any photo into an engineering-grade schematic inside Google Nano Banana Pro on @higgsfield_ai for free.
 
 Want the prompt?
 Follow, like, repost, and comment “Prompt”.
@@ -5547,7 +5549,7 @@ A cream-colored residential building with arched windows and a large paved front
 **Prompt:**
 
 ```
-في البداية خذ صورة مثل الأولى ، ثم استخدم (Nano Banana Pro) واكتب هذه المطالبة (Prompt):
+في البداية خذ صورة مثل الأولى ، ثم استخدم (Google Nano Banana Pro) واكتب هذه المطالبة (Prompt):
 
  "غير واجهة المبنى إلى واجهة مودرن جميلة، وأضف مسبحاً وجلسة خارجية في الحوش".
 
@@ -5566,9 +5568,9 @@ A cream-colored residential building with arched windows and a large paved front
 
 ## 9. 🏔️ Nature & Landscapes
 
-> 16 curated nano banana prompts for nature & landscapes.
+> 16 curated AI image prompts for nature & landscapes.
 
-**[View all 16 prompts →](https://antigravity.codes/nano-banana-prompts/nature-landscapes)**
+**[View all 16 prompts →](https://antigravity.codes/image-prompts/nature-landscapes)**
 
 ### 9.1. Miniature Man Resting on Plant Seedling - Photorealistic
 
@@ -5736,7 +5738,7 @@ A photorealistic image captures a capuchin monkey wearing headphones, sitting in
 **Prompt:**
 
 ```
-Nano Banana Pro is FREE for 365 days on invideo - and unlimited - for all paid-plan signups before Nov 27.
+Google Nano Banana Pro is FREE for 365 days on invideo - and unlimited - for all paid-plan signups before Nov 27.
 
 RT + comment “Banana” for a shot at our highest plan + $1000 credits. Okay, now go lose your bananas.
 ```
@@ -5772,7 +5774,7 @@ A whimsical dragon figure crafted from dry brown autumn leaves rests on a vibran
 **Prompt:**
 
 ```
-wow, you don’t need long, detailed prompts to make something amazing on Nano Banana Pro!
+wow, you don’t need long, detailed prompts to make something amazing on Google Nano Banana Pro!
 
 Prompt : A photorealistic image of a leaf that looks like it’s in the shape of a dragon.
 ```
@@ -5790,7 +5792,7 @@ A breathtaking landscape photo capturing a dramatic sky filled with dark, turbul
 **Prompt:**
 
 ```
-Prompt on Nano Banana Pro : A dramatic sky photo where swirling storm clouds naturally form the unmistakable shape of a [SUBJECT]. The illusion should be “found shape”: at first it’s just clouds; then the creature silhouette pops out. Realistic lighting: sun rays breaking through, volumetric beams, deep contrast. No fantasy glow, pure cloud structure forming the subject. High resolution, cinematic, awe-inspiring.
+Prompt on Google Nano Banana Pro : A dramatic sky photo where swirling storm clouds naturally form the unmistakable shape of a [SUBJECT]. The illusion should be “found shape”: at first it’s just clouds; then the creature silhouette pops out. Realistic lighting: sun rays breaking through, volumetric beams, deep contrast. No fantasy glow, pure cloud structure forming the subject. High resolution, cinematic, awe-inspiring.
 ```
 
 **Source:** [Umesh](https://x.com/umesh_ai/status/2000879410308899138)
@@ -5806,7 +5808,7 @@ An aerial, photorealistic view captures a sprawling suburban landscape filled wi
 **Prompt:**
 
 ```
-2) Feed to Nano Banana Pro, prompt "hand-drawn urban planning map"
+2) Feed to Google Nano Banana Pro, prompt "hand-drawn urban planning map"
 ```
 
 **Source:** [Evan Applegate](https://x.com/youwillmakemaps/status/1998452941871874406)
@@ -5815,9 +5817,9 @@ An aerial, photorealistic view captures a sprawling suburban landscape filled wi
 
 ## 10. 🎨 Logo & Branding
 
-> 14 curated nano banana prompts for logo & branding.
+> 14 curated AI image prompts for logo & branding.
 
-**[View all 14 prompts →](https://antigravity.codes/nano-banana-prompts/logo-branding)**
+**[View all 14 prompts →](https://antigravity.codes/image-prompts/logo-branding)**
 
 ### 10.1. Elegant Script Logo Redesigns: Lacoste, Tesla, Ferrari
 
@@ -5877,7 +5879,7 @@ A vibrant Google search page is displayed within a minimalist web browser interf
 A screenshot of the Google home page with a banana Google doodle, change I'm feeling lucky to be "Go bananas". No monkeys.
 ```
 
-**Source:** [Nano Banana Pro](https://x.com/NanoBanana/status/1991987708840026131)
+**Source:** [Google Nano Banana Pro](https://x.com/NanoBanana/status/1991987708840026131)
 
 ---
 
@@ -5977,11 +5979,11 @@ Prompt below
 
 ---
 
-### 10.10. Awesome Nano Banana Pro: Nano Banana Prompts & Image Generation
+### 10.10. Awesome Google Nano Banana Pro: AI Image Prompts & Image Generation
 
-![Awesome Nano Banana Pro: Nano Banana Prompts & Image Generation](https://pbs.twimg.com/media/G9qHZgvakAAuKrB.jpg)
+![Awesome Google Nano Banana Pro: AI Image Prompts & Image Generation](https://pbs.twimg.com/media/G9qHZgvakAAuKrB.jpg)
 
-A dark-themed webpage screenshot features the title 'Awesome Nano Banana Pro' with a prominent banana emoji, accompanied by 'awesome', 'License CC BY 4.0', and 'Stars 6.7k' badges. The text details a curated collection of high-fidelity 'Nano Banana prompts' and image generation styles for advanced AI visual experiments, covering photorealistic portraits and stylized aesthetics.
+A dark-themed webpage screenshot features the title 'Awesome Google Nano Banana Pro' with a prominent banana emoji, accompanied by 'awesome', 'License CC BY 4.0', and 'Stars 6.7k' badges. The text details a curated collection of high-fidelity 'AI image prompts' and image generation styles for advanced AI visual experiments, covering photorealistic portraits and stylized aesthetics.
 
 **Prompt:**
 
@@ -5995,9 +5997,9 @@ Go grab it.
 
 ## 11. 📻 Vintage & Retro
 
-> 13 curated nano banana prompts for vintage & retro.
+> 13 curated AI image prompts for vintage & retro.
 
-**[View all 13 prompts →](https://antigravity.codes/nano-banana-prompts/vintage-retro)**
+**[View all 13 prompts →](https://antigravity.codes/image-prompts/vintage-retro)**
 
 ### 11.1. Apollo 11 Lunar Module LM-5 Eagle Blueprint & Moon Render
 
@@ -6046,7 +6048,7 @@ A black Canon digital camera is held, displaying a captivating portrait of a you
 ```
 Close-up, top-down shot of a black early 2000s compact digital camera resting on textured blue denim fabric. The rear LCD screen is illuminated, displaying a lo-fi, grainy, flash-lit selfie of a young woman. Subject on screen has dark wavy hair, heavy Y2K-style pink blush on cheeks and nose, winged eyeliner, and glossy lips, looking over her shoulder with a soft gaze. The camera body has visible buttons and a directional pad. Shallow depth of field with focus sharp on the LCD screen and slightly blurred edges.
 ———————————————
-Nano Banana Pro is unlimited for a year for everyone joining @higgsfield_ai. Less than a day left, don’t miss it.
+Google Nano Banana Pro is unlimited for a year for everyone joining @higgsfield_ai. Less than a day left, don’t miss it.
 ```
 
 **Source:** [ΛRMIN | AI](https://x.com/Arminn_Ai/status/1994049675163205921)
@@ -6080,7 +6082,7 @@ A vibrant, high-resolution display of a complete seventy-eight-card Tarot deck, 
 **Prompt:**
 
 ```
-trying to push nano banana pro to its limits. asked for a complete 78-card tarot deck. one prompt. it delivered
+trying to push Google Nano Banana Pro to its limits. asked for a complete 78-card tarot deck. one prompt. it delivered
 ```
 
 **Source:** [gokaygokay](https://x.com/gokayfem/status/2003237826331378093)
@@ -6115,7 +6117,7 @@ A sepia-toned vintage photograph captures two women, one standing and one seated
 ```
 Imagine you are a professional photo restorer. Restore this photo perfectly. Make it sharp and improve resolution. Get rid of scratches. Make it a way it would look if it was taken now. 
 
-Photo of my great-grandmother. I use Nano Banana Pro in Adobe Firefly app.
+Photo of my great-grandmother. I use Google Nano Banana Pro in Adobe Firefly app.
 ```
 
 **Source:** [Kris Kashtanova](https://x.com/icreatelife/status/1993307937851249076)
@@ -6172,9 +6174,9 @@ A flash photography snapshot taken on a disposable camera in 1998. A man at a ch
 
 ## 12. 🎬 Cinematic Posters
 
-> 17 curated nano banana prompts for cinematic posters.
+> 17 curated AI image prompts for cinematic posters.
 
-**[View all 17 prompts →](https://antigravity.codes/nano-banana-prompts/cinematic-posters)**
+**[View all 17 prompts →](https://antigravity.codes/image-prompts/cinematic-posters)**
 
 ### 12.1. Romantic Comedy Poster: How to Lose a Guy in 10 Days
 
@@ -6389,11 +6391,11 @@ A dramatic cinematic shot captures a historical public gathering in front of the
 
 ---
 
-### 12.5. Nano Banana AI Prompt Generator for Cinematic UFC Photos
+### 12.5. Google Nano Banana AI Prompt Generator for Cinematic UFC Photos
 
-![Nano Banana AI Prompt Generator for Cinematic UFC Photos](https://pbs.twimg.com/amplify_video_thumb/1970192305375363073/img/IEUWwE75t1IL0uHG.jpg)
+![Google Nano Banana AI Prompt Generator for Cinematic UFC Photos](https://pbs.twimg.com/amplify_video_thumb/1970192305375363073/img/IEUWwE75t1IL0uHG.jpg)
 
-A screenshot of the 'Nano Banana Prompt Generator' application in dark mode, showcasing a detailed AI prompt for a cinematic UFC photo. The prompt describes a tunnel walkout scene featuring Conor McGregor, his crew in specific hoodies, paparazzi, and emphasizes using best practices of a cinematographer and photographer, all against a vibrant desktop background.
+A screenshot of the 'Google Nano Banana Prompt Generator' application in dark mode, showcasing a detailed AI prompt for a cinematic UFC photo. The prompt describes a tunnel walkout scene featuring Conor McGregor, his crew in specific hoodies, paparazzi, and emphasizes using best practices of a cinematographer and photographer, all against a vibrant desktop background.
 
 **Prompt:**
 
@@ -6464,7 +6466,7 @@ A vibrant cinematic poster for 'Tomb Raider: The Lost Valley' showcases Lara Cro
 **Prompt:**
 
 ```
-Will probably get yelled at for this, but this was a single Nano Banana prompt without using the original uploaded as a reference
+Will probably get yelled at for this, but this was a single Google Nano Banana prompt without using the original uploaded as a reference
 ```
 
 **Source:** [Paul Tassi](https://x.com/PaulTassi/status/1999158619020181607)
@@ -6506,9 +6508,9 @@ His face looked tired and tense, slightly dirty with wounds on his face and legs
 
 ## 13. 🎌 Anime & Manga
 
-> 9 curated nano banana prompts for anime & manga.
+> 9 curated AI image prompts for anime & manga.
 
-**[View all 9 prompts →](https://antigravity.codes/nano-banana-prompts/anime-manga)**
+**[View all 9 prompts →](https://antigravity.codes/image-prompts/anime-manga)**
 
 ### 13.1. Japan City Life Anime Art: Urban Exploration & Travel
 
@@ -6749,7 +6751,7 @@ A vibrant anime-style comic strip depicts three cheerful female VTuber character
 **Prompt:**
 
 ```
-nano banana pro
+Google Nano Banana Pro
 ```
 
 **Source:** [Iリス@pixai](https://x.com/loveko28516/status/1997942976270741580)
@@ -6765,10 +6767,10 @@ A bustling coffee shop is filled with customers and staff, creating a vibrant at
 **Prompt:**
 
 ```
-With Nano Banana Pro it's easy to combine different styles in a single image. In this photo we've included an anime character, a sketched character and a claymation one, all with just a prompt.
+With Google Nano Banana Pro it's easy to combine different styles in a single image. In this photo we've included an anime character, a sketched character and a claymation one, all with just a prompt.
 ```
 
-**Source:** [Nano Banana Pro](https://x.com/NanoBanana/status/1997971252858982531)
+**Source:** [Google Nano Banana Pro](https://x.com/NanoBanana/status/1997971252858982531)
 
 ---
 
@@ -6781,7 +6783,7 @@ A vibrant anime comic strip captures a humorous scene with four Hololive VTubers
 **Prompt:**
 
 ```
-nano banana pro
+Google Nano Banana Pro
 ```
 
 **Source:** [Iリス@pixai](https://x.com/loveko28516/status/2000503643167191327)
@@ -6797,11 +6799,11 @@ A vibrant comic book page depicts a diverse group of young adventurers embarking
 **Prompt:**
 
 ```
-Nano Banana Pro & MULTIPLE characters in ONE comics generation with a storyline! 
+Google Nano Banana Pro & MULTIPLE characters in ONE comics generation with a storyline! 
 
 Watch this prompt 
 
-For the next 48 hours ONLY - get 1 Year UNLIMITED Nano Banana Pro on Higgsfield!
+For the next 48 hours ONLY - get 1 Year UNLIMITED Google Nano Banana Pro on Higgsfield!
 
 For 12 hours: follow, like, retweet & comment = FREE 100 credits
 ```
@@ -6846,9 +6848,9 @@ It even knows which moves should and should not be effective
 
 ## 14. ⚡ Minimalist Icons
 
-> 7 curated nano banana prompts for minimalist icons.
+> 7 curated AI image prompts for minimalist icons.
 
-**[View all 7 prompts →](https://antigravity.codes/nano-banana-prompts/minimalist-icons)**
+**[View all 7 prompts →](https://antigravity.codes/image-prompts/minimalist-icons)**
 
 ### 14.1. Famous Faces: Minimalist Vector Art & Flat Design Portraits
 
@@ -6949,7 +6951,7 @@ A vibrant whiteboard diagram outlines Gemini 3 prompting best practices and core
 ```
 Here are my Gemini 3 Prompting Best Practices for General Usage. https://philschmid.de/gemini-3-prompt-practices…
 
-- visualized by Nano Banana Pro
+- visualized by Google Nano Banana Pro
 ```
 
 **Source:** [Philipp Schmid](https://x.com/_philschmid/status/1992933770484392243)
@@ -6965,7 +6967,7 @@ A vibrant grid of pixel art icons depicting various fantasy spells and abilities
 **Prompt:**
 
 ```
-on November 21st Higgsfield granted FREE access to Google's Nano Banana Pro Image model.  
+on November 21st Higgsfield granted FREE access to Google's Google Nano Banana Pro Image model.  
 #Higgsfield #HiggsfieldBanana #Nanobananapro #PR 
 #インディーゲーム #Indiegame #kanaworksai
 ```
@@ -6983,7 +6985,7 @@ A detailed vector art diagram illustrating four distinct interleukin (IL-2, IL-4
 **Prompt:**
 
 ```
-I can’t get enough of Nano Banana Pro! The way it generates scientifically precise illustrations from simple prompts is nothing short of mind blowing! One of those true inflection points in the age of AI!
+I can’t get enough of Google Nano Banana Pro! The way it generates scientifically precise illustrations from simple prompts is nothing short of mind blowing! One of those true inflection points in the age of AI!
 
 Prompt: In multi panels create İL-2, IL-4, IL-12, IL-6 signaling pathways
 ```
@@ -6994,13 +6996,13 @@ Prompt: In multi panels create İL-2, IL-4, IL-12, IL-6 signaling pathways
 
 ## 15. ✨ Miscellaneous
 
-> 4 curated nano banana prompts for miscellaneous.
+> 4 curated AI image prompts for miscellaneous.
 
-**[View all 4 prompts →](https://antigravity.codes/nano-banana-prompts/misc)**
+**[View all 4 prompts →](https://antigravity.codes/image-prompts/misc)**
 
-### 15.1. Nano banana pro
+### 15.1. Google Nano Banana Pro
 
-![Nano banana pro](https://pbs.twimg.com/media/G8TYIx5aoAAGL5n.jpg)
+![Google Nano Banana Pro](https://pbs.twimg.com/media/G8TYIx5aoAAGL5n.jpg)
 
 **Prompt:**
 
@@ -7136,9 +7138,9 @@ Prompt: In multi panels create İL-2, IL-4, IL-12, IL-6 signaling pathways
 
 ---
 
-### 15.2. Gemini Nano Banana Pro
+### 15.2. Gemini Google Nano Banana Pro
 
-![Gemini Nano Banana Pro](https://pbs.twimg.com/media/G8TX4SzWsAYokD-.jpg)
+![Gemini Google Nano Banana Pro](https://pbs.twimg.com/media/G8TX4SzWsAYokD-.jpg)
 
 **Prompt:**
 
@@ -7176,9 +7178,9 @@ Prompt: In multi panels create İL-2, IL-4, IL-12, IL-6 signaling pathways
 
 ---
 
-### 15.3. Gemini Nano Banana Pro
+### 15.3. Gemini Google Nano Banana Pro
 
-![Gemini Nano Banana Pro](https://pbs.twimg.com/media/G8DTqQUWsAM5FJx.jpg)
+![Gemini Google Nano Banana Pro](https://pbs.twimg.com/media/G8DTqQUWsAM5FJx.jpg)
 
 **Prompt:**
 
@@ -7267,9 +7269,9 @@ Prompt: In multi panels create İL-2, IL-4, IL-12, IL-6 signaling pathways
 
 ---
 
-### 15.4. Gemini Nano Banana Pro
+### 15.4. Gemini Google Nano Banana Pro
 
-![Gemini Nano Banana Pro](https://pbs.twimg.com/media/G8GDQ8SW8AEJ321.jpg)
+![Gemini Google Nano Banana Pro](https://pbs.twimg.com/media/G8GDQ8SW8AEJ321.jpg)
 
 **Prompt:**
 
@@ -7313,9 +7315,9 @@ The subject should appear bright and stand out clearly from the background.
 
 ## 16. 📸 Portrait Photography
 
-> 349 curated nano banana prompts for portrait photography.
+> 349 curated AI image prompts for portrait photography.
 
-**[View all 349 prompts →](https://antigravity.codes/nano-banana-prompts/portrait-photography)**
+**[View all 349 prompts →](https://antigravity.codes/image-prompts/portrait-photography)**
 
 ### 16.1. Ana de Armas: Studio Portraits in Mini Dress, Natural Beauty
 
@@ -7562,7 +7564,7 @@ A smiling young couple looks down through a heart-shaped hole carved in fresh sn
 ```
 {
   "request_metadata": {
-    "tool": "Nano Banana Pro",
+    "tool": "Google Nano Banana Pro",
     "task_type": "photoreal_cinematic_poster_style_shoot",
     "quality_preset": "ultra",
     "aspect_ratio": "9:16"
@@ -7636,7 +7638,7 @@ A smiling young couple looks down through a heart-shaped hole carved in fresh sn
     "logo",
     "gibberish"æ{
   "request_metadata": {
-    "tool": "Nano Banana Pro",
+    "tool": "Google Nano Banana Pro",
     "task_type": "photoreal_cinematic_winter_scene_identity_lock",
     "quality_preset": "ultra",
     "aspect_ratio": "9:16"
@@ -8144,7 +8146,7 @@ A young woman with blonde hair and bangs smiles softly while lounging on a grey 
       "Hyper-detailed skin texture",
       "Subsurface scattering",
       "Volumetric lighting",
-      "Nano Banana Pro optimized",
+      "Google Nano Banana Pro optimized",
       "Masterpiece"
     ]
   }
@@ -8859,7 +8861,7 @@ A young woman with blonde hair, styled in a long braid and bangs, wears a white 
 **Prompt:**
 
 ```
-[Nano Banana Pro]   
+[Google Nano Banana Pro]   
 Green Realm × Tilted Stele Effect
 グリーンレルム × 傾いた石碑エフェクト
 綠境 × 斜碑效果
@@ -9953,7 +9955,7 @@ A cheerful woman with short dark hair, dressed in a light blue fluffy jacket and
 **Prompt:**
 
 ```
-[Nano Banana Pro]  
+[Google Nano Banana Pro]  
 (Prompt below/プロンプトは下にあります)   
 
 How to use: 
@@ -10138,7 +10140,7 @@ A striking outdoor portrait captures a young blonde woman in a vibrant red strap
 {
   "meta": {
     "project": "Night_Elegance_RedDress_Blonde_Flux_V5.2",
-    "target_engine": "Flux.1 [dev] / Nano Banana Pro",
+    "target_engine": "Flux.1 [dev] / Google Nano Banana Pro",
     "version": "5.2.0 (Balanced Natural Beauty)",
     "created_at": "2025-12-26T03:45:00Z"
   },
@@ -10552,7 +10554,7 @@ A young woman with blonde hair and bangs, styled in a bun, kneels on a white sha
         "Hyper-detailed skin texture",
         "Masterpiece",
         "Sharp focus",
-        "Nano Banana Pro optimized",
+        "Google Nano Banana Pro optimized",
         "High fidelity",
         "Depth of field"
       ]
@@ -11349,9 +11351,9 @@ A multi-panel image captures Sadie Sink in a high-fashion photoshoot, showcasing
 
 ## 17. 👗 Fashion Photography
 
-> 196 curated nano banana prompts for fashion photography.
+> 196 curated AI image prompts for fashion photography.
 
-**[View all 196 prompts →](https://antigravity.codes/nano-banana-prompts/fashion-photography)**
+**[View all 196 prompts →](https://antigravity.codes/image-prompts/fashion-photography)**
 
 ### 17.1. Woman with Tom and Jerry Characters Fashion Portrait
 
@@ -14288,14 +14290,14 @@ His reflection is visible beside him, complementing the modern urban backdrop of
 
 ## 📚 Resources
 
-- **[Full Prompt Database](https://antigravity.codes/nano-banana-prompts)** - Browse and search 900+ nano banana prompts
-- **[3D Miniatures Prompts](https://antigravity.codes/nano-banana-prompts/3d-miniatures)** - Isometric and diorama prompts
-- **[Product Photography Prompts](https://antigravity.codes/nano-banana-prompts/product-photography)** - Commercial product prompts
-- **[Character Design Prompts](https://antigravity.codes/nano-banana-prompts/character-design)** - Character creation prompts
+- **[Full Prompt Database](https://antigravity.codes/image-prompts)** - Browse and search 900+ AI image prompts
+- **[3D Miniatures Prompts](https://antigravity.codes/image-prompts/3d-miniatures)** - Isometric and diorama prompts
+- **[Product Photography Prompts](https://antigravity.codes/image-prompts/product-photography)** - Commercial product prompts
+- **[Character Design Prompts](https://antigravity.codes/image-prompts/character-design)** - Character creation prompts
 
 ## 🤝 Contributing
 
-Contributions are welcome! If you have an awesome Nano Banana prompt:
+Contributions are welcome! If you have an awesome Google Nano Banana prompt:
 
 1. Fork this repository
 2. Add your prompt in the correct category
@@ -14304,7 +14306,7 @@ Contributions are welcome! If you have an awesome Nano Banana prompt:
 
 Please ensure prompts are:
 - Original or properly attributed
-- Tested and working with Nano Banana
+- Tested and working with Google Nano Banana
 - Include an example image if possible
 
 ## ⭐ Star History
