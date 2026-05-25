@@ -1,16 +1,16 @@
 # Awesome AI Image Prompts 🎨
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Prompts](https://img.shields.io/badge/Prompts-900%2B-gold)](https://antigravity.codes/image-prompts)
+[![Prompts](https://img.shields.io/badge/Prompts-900%2B-gold)](https://agentpedia.codes/image-prompts)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 > A curated collection of **900+ high-quality AI image prompts** tested with leading models — OpenAI DALL-E 3, ChatGPT Image, Midjourney v6, Google Nano Banana (Imagen 3), Flux Pro, and Stable Diffusion XL. From 3D miniatures to product photography, character design to fantasy art.
 
 This repository showcases the best prompts sourced from X (Twitter), prompt engineers, and AI artists worldwide. Each prompt is tested and includes the original source for attribution.
 
-## 👉 [Browse All 900+ Prompts Live →](https://antigravity.codes/image-prompts)
+## 👉 [Browse All 900+ Prompts Live →](https://agentpedia.codes/image-prompts)
 
-Try any prompt instantly with the full interactive database at [antigravity.codes/image-prompts](https://antigravity.codes/image-prompts)
+Try any prompt instantly with the full interactive database at [agentpedia.codes/image-prompts](https://agentpedia.codes/image-prompts)
 
 > **Disclaimer:** This repository is an independent community resource. Not affiliated with, endorsed by, or sponsored by Google LLC, OpenAI, Midjourney Inc., Black Forest Labs, Stability AI, or any AI image generation vendor. Product names referenced — including "Google Nano Banana", "DALL-E", "ChatGPT Image", "Midjourney", "Imagen", "Flux", and "Stable Diffusion" — are trademarks of their respective owners. Prompts are community-curated and provided for editorial and educational purposes.
 
@@ -42,7 +42,7 @@ Try any prompt instantly with the full interactive database at [antigravity.code
 
 > 40 curated AI image prompts for 3d miniatures & dioramas.
 
-**[View all 40 prompts →](https://antigravity.codes/image-prompts/3d-miniatures)**
+**[View all 40 prompts →](https://agentpedia.codes/image-prompts/3d-miniatures)**
 
 ### 1.1. 3D Render: Whimsical Miniature Starbucks Coffee Shop Scene
 
@@ -655,7 +655,7 @@ Composition rules: All architectural detail remains strictly inside the ribbon s
 
 > 61 curated AI image prompts for product photography.
 
-**[View all 61 prompts →](https://antigravity.codes/image-prompts/product-photography)**
+**[View all 61 prompts →](https://agentpedia.codes/image-prompts/product-photography)**
 
 ### 2.1. Thor's Hand Grips Electrified Sprite Bottle in Storm
 
@@ -1728,7 +1728,7 @@ A photorealistic image depicts a modern smartphone standing upright on a wooden 
 
 > 32 curated AI image prompts for character design.
 
-**[View all 32 prompts →](https://antigravity.codes/image-prompts/character-design)**
+**[View all 32 prompts →](https://agentpedia.codes/image-prompts/character-design)**
 
 ### 3.1. Fashion Design: Layering, Texture & Sheer Fabric Diagram
 
@@ -2247,7 +2247,7 @@ A stunning watercolor painting captures a beautiful woman in traditional attire,
 
 > 21 curated AI image prompts for food & culinary.
 
-**[View all 21 prompts →](https://antigravity.codes/image-prompts/food-culinary)**
+**[View all 21 prompts →](https://agentpedia.codes/image-prompts/food-culinary)**
 
 ### 4.1. Dynamic Chocolate Chip Cookies & Milk Splash Food Photo
 
@@ -2785,7 +2785,7 @@ Output: 1 x 1:1 image, rustic gourmet photography.
 
 > 28 curated AI image prompts for fantasy & sci-fi.
 
-**[View all 28 prompts →](https://antigravity.codes/image-prompts/fantasy-scifi)**
+**[View all 28 prompts →](https://agentpedia.codes/image-prompts/fantasy-scifi)**
 
 ### 5.1. Conceptual Art: Jester's Existential Crisis Specimen Jars
 
@@ -3137,7 +3137,7 @@ Focus on the weave of the canvas suit and the scratches on the helmet.
 
 > 28 curated AI image prompts for sports & action.
 
-**[View all 28 prompts →](https://antigravity.codes/image-prompts/sports-action)**
+**[View all 28 prompts →](https://agentpedia.codes/image-prompts/sports-action)**
 
 ### 6.1. Woman Post-Workout Hydration | Fitness & Gym Scene
 
@@ -4909,7 +4909,7 @@ A fit woman in black athletic wear is shown in a three-panel image performing va
 
 > 17 curated AI image prompts for urban cityscapes.
 
-**[View all 17 prompts →](https://antigravity.codes/image-prompts/urban-cityscapes)**
+**[View all 17 prompts →](https://agentpedia.codes/image-prompts/urban-cityscapes)**
 
 ### 7.1. Cozy Autumn Couple Illustration in City Street Scene
 
@@ -5297,7 +5297,7 @@ Prompt
 
 > 22 curated AI image prompts for architecture & interiors.
 
-**[View all 22 prompts →](https://antigravity.codes/image-prompts/architecture-interiors)**
+**[View all 22 prompts →](https://agentpedia.codes/image-prompts/architecture-interiors)**
 
 ### 8.1. AR Interior Design: Industrial Modern Living Room on Phone
 
@@ -5570,7 +5570,7 @@ A cream-colored residential building with arched windows and a large paved front
 
 > 16 curated AI image prompts for nature & landscapes.
 
-**[View all 16 prompts →](https://antigravity.codes/image-prompts/nature-landscapes)**
+**[View all 16 prompts →](https://agentpedia.codes/image-prompts/nature-landscapes)**
 
 ### 9.1. Miniature Man Resting on Plant Seedling - Photorealistic
 
@@ -5819,7 +5819,7 @@ An aerial, photorealistic view captures a sprawling suburban landscape filled wi
 
 > 14 curated AI image prompts for logo & branding.
 
-**[View all 14 prompts →](https://antigravity.codes/image-prompts/logo-branding)**
+**[View all 14 prompts →](https://agentpedia.codes/image-prompts/logo-branding)**
 
 ### 10.1. Elegant Script Logo Redesigns: Lacoste, Tesla, Ferrari
 
@@ -5999,7 +5999,7 @@ Go grab it.
 
 > 13 curated AI image prompts for vintage & retro.
 
-**[View all 13 prompts →](https://antigravity.codes/image-prompts/vintage-retro)**
+**[View all 13 prompts →](https://agentpedia.codes/image-prompts/vintage-retro)**
 
 ### 11.1. Apollo 11 Lunar Module LM-5 Eagle Blueprint & Moon Render
 
@@ -6176,7 +6176,7 @@ A flash photography snapshot taken on a disposable camera in 1998. A man at a ch
 
 > 17 curated AI image prompts for cinematic posters.
 
-**[View all 17 prompts →](https://antigravity.codes/image-prompts/cinematic-posters)**
+**[View all 17 prompts →](https://agentpedia.codes/image-prompts/cinematic-posters)**
 
 ### 12.1. Romantic Comedy Poster: How to Lose a Guy in 10 Days
 
@@ -6510,7 +6510,7 @@ His face looked tired and tense, slightly dirty with wounds on his face and legs
 
 > 9 curated AI image prompts for anime & manga.
 
-**[View all 9 prompts →](https://antigravity.codes/image-prompts/anime-manga)**
+**[View all 9 prompts →](https://agentpedia.codes/image-prompts/anime-manga)**
 
 ### 13.1. Japan City Life Anime Art: Urban Exploration & Travel
 
@@ -6850,7 +6850,7 @@ It even knows which moves should and should not be effective
 
 > 7 curated AI image prompts for minimalist icons.
 
-**[View all 7 prompts →](https://antigravity.codes/image-prompts/minimalist-icons)**
+**[View all 7 prompts →](https://agentpedia.codes/image-prompts/minimalist-icons)**
 
 ### 14.1. Famous Faces: Minimalist Vector Art & Flat Design Portraits
 
@@ -6998,7 +6998,7 @@ Prompt: In multi panels create İL-2, IL-4, IL-12, IL-6 signaling pathways
 
 > 4 curated AI image prompts for miscellaneous.
 
-**[View all 4 prompts →](https://antigravity.codes/image-prompts/misc)**
+**[View all 4 prompts →](https://agentpedia.codes/image-prompts/misc)**
 
 ### 15.1. Google Nano Banana Pro
 
@@ -7317,7 +7317,7 @@ The subject should appear bright and stand out clearly from the background.
 
 > 349 curated AI image prompts for portrait photography.
 
-**[View all 349 prompts →](https://antigravity.codes/image-prompts/portrait-photography)**
+**[View all 349 prompts →](https://agentpedia.codes/image-prompts/portrait-photography)**
 
 ### 16.1. Ana de Armas: Studio Portraits in Mini Dress, Natural Beauty
 
@@ -11353,7 +11353,7 @@ A multi-panel image captures Sadie Sink in a high-fashion photoshoot, showcasing
 
 > 196 curated AI image prompts for fashion photography.
 
-**[View all 196 prompts →](https://antigravity.codes/image-prompts/fashion-photography)**
+**[View all 196 prompts →](https://agentpedia.codes/image-prompts/fashion-photography)**
 
 ### 17.1. Woman with Tom and Jerry Characters Fashion Portrait
 
@@ -14290,10 +14290,10 @@ His reflection is visible beside him, complementing the modern urban backdrop of
 
 ## 📚 Resources
 
-- **[Full Prompt Database](https://antigravity.codes/image-prompts)** - Browse and search 900+ AI image prompts
-- **[3D Miniatures Prompts](https://antigravity.codes/image-prompts/3d-miniatures)** - Isometric and diorama prompts
-- **[Product Photography Prompts](https://antigravity.codes/image-prompts/product-photography)** - Commercial product prompts
-- **[Character Design Prompts](https://antigravity.codes/image-prompts/character-design)** - Character creation prompts
+- **[Full Prompt Database](https://agentpedia.codes/image-prompts)** - Browse and search 900+ AI image prompts
+- **[3D Miniatures Prompts](https://agentpedia.codes/image-prompts/3d-miniatures)** - Isometric and diorama prompts
+- **[Product Photography Prompts](https://agentpedia.codes/image-prompts/product-photography)** - Commercial product prompts
+- **[Character Design Prompts](https://agentpedia.codes/image-prompts/character-design)** - Character creation prompts
 
 ## 🤝 Contributing
 
@@ -14319,4 +14319,4 @@ MIT License - feel free to use these prompts for any purpose.
 
 ---
 
-**Made with 🍌 by [Antigravity Codes](https://antigravity.codes)**
+**Made with 🍌 by [Agentpedia Codes](https://agentpedia.codes)**
