@@ -1,14 +1,14 @@
 # Awesome AI Image Prompts 🎨
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Prompts](https://img.shields.io/badge/Prompts-900%2B-gold)](https://agentpedia.codes/image-prompts)
+[![Prompts](https://img.shields.io/badge/Prompts-1%2C000%2B-gold)](https://agentpedia.codes/image-prompts)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-> A curated collection of **900+ high-quality AI image prompts** tested with leading models — OpenAI DALL-E 3, ChatGPT Image, Midjourney v6, Google Nano Banana (Imagen 3), Flux Pro, and Stable Diffusion XL. From 3D miniatures to product photography, character design to fantasy art.
+> A curated collection of **1,000+ high-quality AI image prompts** for leading image-generation models, including OpenAI image tools. From 3D miniatures to product photography, character design to fantasy art.
 
 This repository showcases the best prompts sourced from X (Twitter), prompt engineers, and AI artists worldwide. Each prompt is tested and includes the original source for attribution.
 
-## 👉 [Browse All 900+ Prompts Live →](https://agentpedia.codes/image-prompts)
+## 👉 [Browse All 1,000+ Prompts Live →](https://agentpedia.codes/image-prompts)
 
 Try any prompt instantly with the full interactive database at [agentpedia.codes/image-prompts](https://agentpedia.codes/image-prompts)
 
@@ -14290,24 +14290,22 @@ His reflection is visible beside him, complementing the modern urban backdrop of
 
 ## 📚 Resources
 
-- **[Full Prompt Database](https://agentpedia.codes/image-prompts)** - Browse and search 900+ AI image prompts
+- **[Full Prompt Database](https://agentpedia.codes/image-prompts)** - Browse and search 1,000+ AI image prompts
 - **[3D Miniatures Prompts](https://agentpedia.codes/image-prompts/3d-miniatures)** - Isometric and diorama prompts
 - **[Product Photography Prompts](https://agentpedia.codes/image-prompts/product-photography)** - Commercial product prompts
 - **[Character Design Prompts](https://agentpedia.codes/image-prompts/character-design)** - Character creation prompts
 
 ## 🤝 Contributing
 
-Contributions are welcome! If you have an awesome Google Nano Banana prompt:
+Contributions are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request.
 
 1. Fork this repository
 2. Add your prompt in the correct category
 3. Include the source/attribution
 4. Submit a Pull Request
 
-Please ensure prompts are:
-- Original or properly attributed
-- Tested and working with Google Nano Banana
-- Include an example image if possible
+Please ensure prompts are original or properly attributed, accurately described,
+and include an example image where possible.
 
 ## ⭐ Star History
 
@@ -14315,7 +14313,11 @@ If you find this useful, please give it a star! It helps others discover these p
 
 ## 📄 License
 
-MIT License - feel free to use these prompts for any purpose.
+This repository's original code, documentation, and original prompt content are
+licensed under the [MIT License](LICENSE). Third-party material, including
+linked images and attributed prompts, remains subject to its original source
+and applicable rights. See [CONTRIBUTING.md](CONTRIBUTING.md) for submission
+requirements.
 
 ---
 
