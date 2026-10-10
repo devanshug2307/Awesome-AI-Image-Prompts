@@ -1724,6 +1724,30 @@ A photorealistic image depicts a modern smartphone standing upright on a wooden 
 
 ---
 
+### 2.15. White Metal Chair in a Sage-Green Studio | Image-to-Image Background Edit
+
+![Actual AI edit of a white metal chair in a green studio scene with a cream floor](https://imagetoimage.dev/photos/display/product-studio-640-91c83c09020a.webp)
+
+An image-to-image instruction for changing the scene around an existing product photo. The linked output is one actual edit, not a filter preview or a benchmark.
+
+**Input:** A white metal chair photo by [Ellen Qin on Unsplash](https://unsplash.com/photos/white-metal-chair-bxLhqZIp2LI). Use a reference image you have permission to edit.
+
+**Prompt (user instruction):**
+
+```
+Keep the white metal chair, its proportions, legs, seat and camera angle unchanged. Replace the background with a muted sage-green studio wall and a pale cream floor. Add soft daylight from the left and a natural contact shadow beneath the chair. Do not add text, logos, people or extra furniture.
+```
+
+**Tested setup:** One Qwen Image Edit request through fal.ai on October 10, 2026, with the Image to Image editor's Studio photo preset enabled. That preset also added an instruction for professional studio lighting, a clean neutral background and realistic detail while preserving the main subject. The user instruction above is not the complete provider payload.
+
+**Review notes:** The wall became green and the floor cream, with side lighting and a contact shadow. The framing, seat edge and leg details also changed, so the result did not fully preserve the product. Compare silhouette, proportions, material, labels and shadows before using an edit in a product listing. Use a conventional cutout/composite when original product pixels must stay unchanged. Results vary with the source image, model and settings.
+
+**Source:** [MinshengLiu — original instruction and full before/after comparison](https://imagetoimage.dev/image-to-image/product-photo-background#real-example). This is an operator-produced example from my own editor, not an independent recommendation.
+
+**Photo credit:** Ellen Qin / [Unsplash License](https://unsplash.com/license) for the source photograph. The original prompt text is contributed under this repository's MIT license; the linked source photograph remains subject to its separate license.
+
+---
+
 ## 3. 🎭 Character Design
 
 > 32 curated AI image prompts for character design.
